@@ -139,3 +139,11 @@ Para este proyecto encontré en internet los siguientes recursos que me parecier
 
   * [¿Cómo leer el código QR usando la biblioteca ZXing en Android?](https://es.acervolima.com/como-leer-el-codigo-qr-usando-la-biblioteca-zxing-en-android/)
   
+  * [La documentación oficial de Code Scanner](https://github.com/yuriy-budiyev/code-scanner)
+
+  * [Zxing – Leer QR y códigos de barras en Kotlin](https://cursokotlin.com/zxing-leer-qr-codigos-de-barras-en-kotlin/)
+
+# Lo que sigue
+El alcance de este proyecto sólo es la comparación de ambas librerías así que no tengo mucho más qué agregar. Tal vez darle una vista más atractiva y jugar con las propiedades y atributos de cada librería.
+
+Siéntete libre de comentar y sugerir cosas para esta app.
