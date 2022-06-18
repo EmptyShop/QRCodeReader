@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR Code Reader</string>
+    <string name="etiqueta_codigo">Código:</string>
+    <string name="etiqueta_formato">Tipo de código:</string>
+    <string name="caption_scanner">QR Code Scanner</string>
+    <string name="etiqueta_button1">Con ZXing</string>
+    <string name="etiqueta_button2">Con Code Scanner</string>
+</resources>
